@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🤖 AI Learning companion for Students
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-app.streamlit.app)
@@ -59,3 +60,7 @@ Technologies used in the project:
 <h2>🛡️ License:</h2>
 
 This project is licensed under the Apache
+=======
+# Online-Quiz-System
+Mini Project
+>>>>>>> 2b864406f32b58d383c54f42c797a22a4fa7819e
